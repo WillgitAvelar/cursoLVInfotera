@@ -162,3 +162,4 @@ Desenvolvido para **Litoral Verde** - Plataforma de Treinamento Interno
 
 **Versão**: 1.0.0  
 **Última Atualização**: Janeiro 2025
+# cursoLVInfotera
